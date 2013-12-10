@@ -69,18 +69,6 @@ Be sure to run this command within the `spec` directory.
 
 Mocha's browser support may later be added; if you'd like this feature, let me know so that it'll be implemented into future updates.
 
-Since Mocha needs the compiler command to run CoffeeScript files, you could set an alias for the long command by running the following comman:
-
-```
-  $ alias coffee='--compilers coffee:coffee-script'
-``` 
-You can then simply run the following command to run the tests:
-
-```
-  $ mocha coffee filenameSpec.js
-``` 
-To permanently set this alias for every session, update your .bash_profile with this command.
-
 To summon with Mocha's different reporters, run the following command (e.g. spec):
 
 ```
