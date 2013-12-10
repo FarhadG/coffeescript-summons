@@ -20,7 +20,7 @@ Do you have what it takes to summon CoffeeScript? Let's find out!
 
 <tr>
 <td>Exercises</td>
-<td>1</td>
+<td>25</td>
 </tr>
 </table>
 
