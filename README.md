@@ -47,15 +47,15 @@ All of the exercises are located in the `src` directory. They contain the necess
 Navigate to the `src` directory and fire up an exercise:
 
 ```coffeescript
-  ### FACTORS
-    Write a function that returns an array 
-    containing all of the factors of a number.
+### FACTORS
+  Write a function that returns an array 
+  containing all of the factors of a number.
 
-    For example: factors(10) returns [1, 2, 5, 10]
-  ###
+  For example: factors(10) returns [1, 2, 5, 10]
+###
 
-  factors = (num) ->
-    "summon here"
+factors = (num) ->
+  "summon here"
 ```
 Solve the exercise and summon the test by running the following command:
 
