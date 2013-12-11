@@ -6,7 +6,7 @@
 ###
 
 substrings = (str) ->
-  "summon"
+  "summon here"
 
 
 
@@ -15,5 +15,5 @@ substrings = (str) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = substrings

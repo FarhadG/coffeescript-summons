@@ -18,7 +18,7 @@
 ###
 
 mergeSort = (arr) ->
-  "summon"
+  "summon here"
 
 
 
@@ -27,5 +27,5 @@ mergeSort = (arr) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = mergeSort

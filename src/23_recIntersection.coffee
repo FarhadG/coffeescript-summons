@@ -16,7 +16,7 @@
 ###
 
 recIntersection = (rec1, rec2) ->
-  "summon"
+  "summon here"
 
 
 
@@ -25,5 +25,5 @@ recIntersection = (rec1, rec2) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = recIntersection

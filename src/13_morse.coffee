@@ -10,7 +10,7 @@
 ###
 
 morse = (str) ->
-  "summon"
+  "summon here"
 
 
 
@@ -19,5 +19,5 @@ morse = (str) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = morse

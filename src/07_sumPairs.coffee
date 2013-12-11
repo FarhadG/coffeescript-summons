@@ -6,7 +6,7 @@
 ###
 
 sumPairs = (arr, target) ->
-  "summon"
+  "summon here"
 
 
 
@@ -15,5 +15,5 @@ sumPairs = (arr, target) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = sumPairs

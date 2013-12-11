@@ -7,7 +7,7 @@
 ###
 
 unique = (arr) ->
-  "summon"
+  "summon here"
 
 
 
@@ -16,5 +16,5 @@ unique = (arr) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = unique

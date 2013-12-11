@@ -6,7 +6,7 @@
 ###
 
 runTime = (func) ->
-  "summon"
+  "summon here"
 
 
 
@@ -15,5 +15,5 @@ runTime = (func) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = runTime

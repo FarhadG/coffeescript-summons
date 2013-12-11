@@ -7,7 +7,7 @@
 ###
 
 combineArr = (arr1, arr2) ->
-  "summon"
+  "summon here"
 
 
 
@@ -16,5 +16,5 @@ combineArr = (arr1, arr2) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = combineArr

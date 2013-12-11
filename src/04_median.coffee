@@ -8,7 +8,7 @@
 ###
 
 median = (arr) ->
-  "summon"
+  "summon here"
 
 
 
@@ -17,5 +17,5 @@ median = (arr) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = median

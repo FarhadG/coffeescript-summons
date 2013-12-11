@@ -16,7 +16,7 @@
 ###
 
 caesar = (str, offset) ->
-  "summon"
+  "summon here"
 
 
 
@@ -25,5 +25,5 @@ caesar = (str, offset) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = caesar

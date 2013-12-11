@@ -6,7 +6,7 @@
 ###
 
 nonRepeats = (start, end) ->
-  "summon"
+  "summon here"
 
 
 
@@ -15,5 +15,5 @@ nonRepeats = (start, end) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = nonRepeats

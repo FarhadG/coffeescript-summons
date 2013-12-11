@@ -7,7 +7,7 @@
 ###
 
 scrambleWord = (str, arr) ->
-  "summon"
+  "summon here"
 
 
 
@@ -16,5 +16,5 @@ scrambleWord = (str, arr) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = scrambleWord

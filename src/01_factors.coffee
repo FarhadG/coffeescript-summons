@@ -6,7 +6,7 @@
 ###
 
 factors = (num) ->
-  "summon"
+  "summon here"
 
 
 
@@ -15,5 +15,5 @@ factors = (num) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = factors

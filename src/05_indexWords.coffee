@@ -7,7 +7,7 @@
 ###
 
 indexWords = (arr) ->
-  "summon"
+  "summon here"
 
 
 
@@ -16,5 +16,5 @@ indexWords = (arr) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = indexWords

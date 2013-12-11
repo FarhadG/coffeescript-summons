@@ -13,7 +13,7 @@
 ###
 
 transpose = (arr) ->
-  "summon"
+  "summon here"
 
 
 
@@ -22,5 +22,5 @@ transpose = (arr) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = transpose

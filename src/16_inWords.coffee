@@ -9,7 +9,7 @@
 ###
 
 inWords = (num) ->
-  "summon"
+  "summon here"
 
 
 
@@ -18,5 +18,5 @@ inWords = (num) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = inWords

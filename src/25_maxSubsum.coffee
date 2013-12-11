@@ -8,7 +8,7 @@
 ###
 
 maxSubsum = (arr) ->
-  "summon"
+  "summon here"
 
 
 
@@ -17,5 +17,5 @@ maxSubsum = (arr) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = maxSubsum

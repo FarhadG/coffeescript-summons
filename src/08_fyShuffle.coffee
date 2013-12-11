@@ -12,7 +12,7 @@
 ###
 
 fyShuffle = (arr) ->
-  "summon"
+  "summon here"
 
 
 
@@ -21,5 +21,5 @@ fyShuffle = (arr) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = fyShuffle

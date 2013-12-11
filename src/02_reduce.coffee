@@ -6,7 +6,7 @@
 ###
 
 reduce = (arr, initial) ->
-  "summon"
+  "summon here"
 
 
 
@@ -15,7 +15,7 @@ reduce = (arr, initial) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = reduce
 
 

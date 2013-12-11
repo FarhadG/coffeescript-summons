@@ -7,7 +7,7 @@
 ###
 
 digitCombos = (num) ->
-  "summon"
+  "summon here"
 
 
 
@@ -16,5 +16,5 @@ digitCombos = (num) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = digitCombos

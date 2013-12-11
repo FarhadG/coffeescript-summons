@@ -7,7 +7,7 @@
 ###
 
 orderedVowels = (str) ->
-  "summon"
+  "summon here"
 
 
 
@@ -16,5 +16,5 @@ orderedVowels = (str) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = orderedVowels

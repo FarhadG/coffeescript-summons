@@ -8,7 +8,7 @@
 ###
 
 changeBase = (num, from, to) ->
-  "summon"
+  "summon here"
 
 
 
@@ -17,5 +17,5 @@ changeBase = (num, from, to) ->
 
 
 
-# for Mocha testing
+### Mocha Testing ###
 module.exports = changeBase
