@@ -1,4 +1,5 @@
-### COMBINE ARRAYS
+###--COMBINE ARRAYS
+
   Write a function that combines two unsorted arrays into a
   sorted array without any duplicates. Use the comparative
   operators for sorting instead of any sorting functions.
@@ -12,9 +13,5 @@ combineArr = (arr1, arr2) ->
 
 
 
-
-
-
-
-### Mocha Testing ###
+###--Mocha Testing--###
 module.exports = combineArr

@@ -1,5 +1,4 @@
-caesar = require '../src/06_caesar'
-expect = require '../vendor/expect'
+caesar = require '../src/06_caesar', expect = require '../vendor/expect'
 
 describe "Caesar Cipher", ->
   it "encodes lowercase strings", ->

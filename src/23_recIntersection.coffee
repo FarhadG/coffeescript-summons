@@ -1,4 +1,5 @@
-### RECTANGLE INTERSECTION
+###--RECTANGLE INTERSECTION
+
   Write a function that returns the
   intersection of the two rectangles.
 
@@ -21,9 +22,5 @@ recIntersection = (rec1, rec2) ->
 
 
 
-
-
-
-
-### Mocha Testing ###
+###--Mocha Testing--###
 module.exports = recIntersection

@@ -1,5 +1,4 @@
-nearestLarger = require '../src/17_nearestLarger'
-expect        = require '../vendor/expect'
+nearestLarger = require '../src/17_nearestLarger', expect = require '../vendor/expect'
 
 describe "Nearest Larger", ->
   it "return the nearest larger integer's index to the left", ->

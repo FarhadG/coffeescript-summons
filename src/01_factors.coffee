@@ -1,4 +1,5 @@
-### FACTORS
+###--FACTORS
+
   Write a function that returns an array 
   containing all of the factors of a number.
 
@@ -11,9 +12,5 @@ factors = (num) ->
 
 
 
-
-
-
-
-### Mocha Testing ###
+###--Mocha Testing--###
 module.exports = factors

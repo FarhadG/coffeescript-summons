@@ -1,5 +1,4 @@
-changeBase = require '../src/10_changeBase'
-expect     = require '../vendor/expect'
+changeBase = require '../src/10_changeBase', expect = require '../vendor/expect'
 
 describe "Change Base", ->
   it "changes numbers from base 10 to another", ->

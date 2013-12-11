@@ -1,5 +1,4 @@
-mergeSort = require '../src/18_mergeSort'
-expect    = require '../vendor/expect'
+mergeSort = require '../src/18_mergeSort', expect = require '../vendor/expect'
 
 describe "Merge Sort", ->
   it "returns an empty array if there are no elements to sort", ->

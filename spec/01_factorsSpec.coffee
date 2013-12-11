@@ -1,5 +1,4 @@
-factors = require '../src/01_factors'
-expect  = require '../vendor/expect'
+factors = require '../src/01_factors', expect = require '../vendor/expect'
 
 describe "Factors", ->
   it "returns an array of the input's factors", ->

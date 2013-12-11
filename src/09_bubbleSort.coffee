@@ -1,4 +1,5 @@
-### BUBBLE SORT
+###--BUBBLE SORT
+
   Write a function that sorts an array of integers 
   using the "Bubble Sort" methodology.
 
@@ -20,9 +21,5 @@ bubbleSort = (arr) ->
 
 
 
-
-
-
-
-### Mocha Testing ###
+###--Mocha Testing--###
 module.exports = bubbleSort

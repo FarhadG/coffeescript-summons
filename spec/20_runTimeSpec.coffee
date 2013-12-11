@@ -1,5 +1,4 @@
-runTime = require '../src/20_runTime'
-expect  = require '../vendor/expect'
+runTime = require '../src/20_runTime', expect = require '../vendor/expect'
 
 describe "Run Time", ->
   it "calculates the time taken to run a function", ->

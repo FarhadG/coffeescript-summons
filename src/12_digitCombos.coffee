@@ -1,4 +1,5 @@
-### DIGIT COMBINATIONS
+###--DIGIT COMBINATIONS
+
   Write a function that takes a number with distinct digits 
   and returns a sorted array of all the numbers
   than can be formed with those digits.
@@ -12,9 +13,5 @@ digitCombos = (num) ->
 
 
 
-
-
-
-
-### Mocha Testing ###
+###--Mocha Testing--###
 module.exports = digitCombos

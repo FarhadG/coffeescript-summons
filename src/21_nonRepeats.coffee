@@ -1,4 +1,5 @@
-### NON REPEATS
+###--NON REPEATS
+
   Write a function takes a range of numbers
   and outputs the years that have unique digits.
 
@@ -11,9 +12,5 @@ nonRepeats = (start, end) ->
 
 
 
-
-
-
-
-### Mocha Testing ###
+###--Mocha Testing--###
 module.exports = nonRepeats

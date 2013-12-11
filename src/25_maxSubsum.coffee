@@ -1,4 +1,5 @@
-### MAX SUBSUM
+###--MAX SUBSUM
+
   Write a function that takes an array of integers
   and finds the contiguous subarray within the array with the largest sum.
 
@@ -13,9 +14,5 @@ maxSubsum = (arr) ->
 
 
 
-
-
-
-
-### Mocha Testing ###
+###--Mocha Testing--###
 module.exports = maxSubsum

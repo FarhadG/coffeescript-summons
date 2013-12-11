@@ -1,4 +1,5 @@
-### SUM PAIRS
+###--SUM PAIRS
+
   Write a method that takes two parameters (array & target value)
   and returns an array of the pairs that sum the target value.
 
@@ -11,9 +12,5 @@ sumPairs = (arr, target) ->
 
 
 
-
-
-
-
-### Mocha Testing ###
+###--Mocha Testing--###
 module.exports = sumPairs

@@ -1,5 +1,4 @@
-fyShuffle = require '../src/08_fyShuffle'
-expect    = require '../vendor/expect'
+fyShuffle = require '../src/08_fyShuffle', expect = require '../vendor/expect'
 
 describe "Fisher–Yates Shuffle", ->
   it "shuffles the array using the Fisher–Yates methodology", ->

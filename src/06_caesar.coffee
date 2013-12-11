@@ -1,4 +1,5 @@
-### CAESAR CIPHER
+###--CAESAR CIPHER
+
   Implement your own Caesar cipher.
 
   http://en.wikipedia.org/wiki/Caesar_cipher
@@ -21,9 +22,5 @@ caesar = (str, offset) ->
 
 
 
-
-
-
-
-### Mocha Testing ###
+###--Mocha Testing--###
 module.exports = caesar

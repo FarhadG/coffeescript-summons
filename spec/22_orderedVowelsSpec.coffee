@@ -1,5 +1,4 @@
-orderedVowels = require '../src/22_orderedVowels'
-expect        = require '../vendor/expect'
+orderedVowels = require '../src/22_orderedVowels', expect = require '../vendor/expect'
 
 describe "Ordered Vowels", ->
   it "returns a word that is in order", ->

@@ -1,5 +1,4 @@
-scrambleWord = require '../src/15_scrambleWord'
-expect       = require '../vendor/expect'
+scrambleWord = require '../src/15_scrambleWord', expect = require '../vendor/expect'
 
 describe "Scramble Word", ->
   it "handles a simple word", ->

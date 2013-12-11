@@ -1,5 +1,4 @@
-sumPairs = require '../src/07_sumPairs'
-expect   = require '../vendor/expect'
+sumPairs = require '../src/07_sumPairs', expect = require '../vendor/expect'
 
 describe "Sum Pairs", ->
   it "returns an empty array", ->

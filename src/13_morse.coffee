@@ -1,4 +1,5 @@
-### MORSE
+###--MORSE
+
   Build a function that takes in a string (no numbers or punctuation) 
   and outputs the morse code for it.
 
@@ -15,9 +16,5 @@ morse = (str) ->
 
 
 
-
-
-
-
-### Mocha Testing ###
+###--Mocha Testing--###
 module.exports = morse

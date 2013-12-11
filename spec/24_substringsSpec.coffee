@@ -1,5 +1,4 @@
-substrings = require '../src/24_substrings'
-expect     = require '../vendor/expect'
+substrings = require '../src/24_substrings', expect = require '../vendor/expect'
 
 describe "Substrings", ->
   it "returns the substrings of a single character", ->

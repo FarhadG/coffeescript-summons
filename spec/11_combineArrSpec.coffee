@@ -1,5 +1,4 @@
-combineArr = require '../src/11_combineArr'
-expect     = require '../vendor/expect'
+combineArr = require '../src/11_combineArr', expect = require '../vendor/expect'
 
 describe "Combine Arrays", ->
   it "combines two arrays into a single array", ->

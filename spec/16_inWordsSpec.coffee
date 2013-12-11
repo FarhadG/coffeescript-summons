@@ -1,5 +1,4 @@
-inWords = require '../src/16_inWords'
-expect  = require '../vendor/expect'
+inWords = require '../src/16_inWords', expect = require '../vendor/expect'
 
 describe "In Words", ->
   it "reads 0 to 9", ->

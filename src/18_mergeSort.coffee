@@ -1,4 +1,5 @@
-### MERGE SORT
+###--MERGE SORT
+
   Write a function that sorts an array of integers 
   using the "Merge Sort" methodology.
 
@@ -23,9 +24,5 @@ mergeSort = (arr) ->
 
 
 
-
-
-
-
-### Mocha Testing ###
+###--Mocha Testing--###
 module.exports = mergeSort

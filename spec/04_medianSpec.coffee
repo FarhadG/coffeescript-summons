@@ -1,5 +1,4 @@
-median = require '../src/04_median'
-expect = require '../vendor/expect'
+median = require '../src/04_median', expect = require '../vendor/expect'
 
 describe "Median", ->
   it "returns an empty array if there are no elements", ->

@@ -1,5 +1,4 @@
-maxSubsum = require '../src/25_maxSubsum'
-expect    = require '../vendor/expect'
+maxSubsum = require '../src/25_maxSubsum', expect = require '../vendor/expect'
 
 describe "Max Subsum", ->
   it "returns the subarray with the largest sum", ->

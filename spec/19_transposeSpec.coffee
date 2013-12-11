@@ -1,5 +1,4 @@
-transpose = require '../src/19_transpose'
-expect    = require '../vendor/expect'
+transpose = require '../src/19_transpose', expect = require '../vendor/expect'
 
 describe "Transpose", ->
   it "converts between row-oriented and column-oriented representations", ->
