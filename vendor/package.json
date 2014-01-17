@@ -1,0 +1,13 @@
+{
+  "name": "Summons",
+  "version": "0.0.0",
+  "description": "A collection of exercises to get you grooving.",
+  "main": "index.js",
+  "author": "Farhad Ghayour",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-coffee": "~0.7.0"
+  }
+}
